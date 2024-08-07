@@ -1,0 +1,5 @@
+Folder: ../../Features/AllSets\Set1\Set_1_Original
+Scaler: MinMaxScaler()
+Feature: alexfc7CNN.csv
+AlgorithmName: Linear Regression
+Algorithm: LinearRegression()

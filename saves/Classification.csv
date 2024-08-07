@@ -1,0 +1,5 @@
+Folder: ../../Features/AllSets\Set1\Set_1_Original
+Scaler: MinMaxScaler()
+Feature: ZM_6_4.csv
+AlgorithmName: K-Nearest Neighbors
+Algorithm: KNeighborsClassifier()

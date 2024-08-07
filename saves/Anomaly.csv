@@ -1,0 +1,5 @@
+Folder: ../../Features/Set_9\Set_9_Enhanced
+Scaler: None
+Feature: xceptionCNN.csv
+AlgorithmName: Isolation Forest
+Algorithm: IsolationForest(contamination=0.15, random_state=42)
